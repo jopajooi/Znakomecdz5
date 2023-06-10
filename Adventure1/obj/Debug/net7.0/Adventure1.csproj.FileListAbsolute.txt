@@ -1,0 +1,15 @@
+C:\Users\Adskiposral\Desktop\Курс\dz\Знакомство семенары дз5\Adventure1\bin\Debug\net7.0\Adventure1.exe
+C:\Users\Adskiposral\Desktop\Курс\dz\Знакомство семенары дз5\Adventure1\bin\Debug\net7.0\Adventure1.deps.json
+C:\Users\Adskiposral\Desktop\Курс\dz\Знакомство семенары дз5\Adventure1\bin\Debug\net7.0\Adventure1.runtimeconfig.json
+C:\Users\Adskiposral\Desktop\Курс\dz\Знакомство семенары дз5\Adventure1\bin\Debug\net7.0\Adventure1.dll
+C:\Users\Adskiposral\Desktop\Курс\dz\Знакомство семенары дз5\Adventure1\bin\Debug\net7.0\Adventure1.pdb
+C:\Users\Adskiposral\Desktop\Курс\dz\Знакомство семенары дз5\Adventure1\obj\Debug\net7.0\Adventure1.csproj.AssemblyReference.cache
+C:\Users\Adskiposral\Desktop\Курс\dz\Знакомство семенары дз5\Adventure1\obj\Debug\net7.0\Adventure1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adskiposral\Desktop\Курс\dz\Знакомство семенары дз5\Adventure1\obj\Debug\net7.0\Adventure1.AssemblyInfoInputs.cache
+C:\Users\Adskiposral\Desktop\Курс\dz\Знакомство семенары дз5\Adventure1\obj\Debug\net7.0\Adventure1.AssemblyInfo.cs
+C:\Users\Adskiposral\Desktop\Курс\dz\Знакомство семенары дз5\Adventure1\obj\Debug\net7.0\Adventure1.csproj.CoreCompileInputs.cache
+C:\Users\Adskiposral\Desktop\Курс\dz\Знакомство семенары дз5\Adventure1\obj\Debug\net7.0\Adventure1.dll
+C:\Users\Adskiposral\Desktop\Курс\dz\Знакомство семенары дз5\Adventure1\obj\Debug\net7.0\refint\Adventure1.dll
+C:\Users\Adskiposral\Desktop\Курс\dz\Знакомство семенары дз5\Adventure1\obj\Debug\net7.0\Adventure1.pdb
+C:\Users\Adskiposral\Desktop\Курс\dz\Знакомство семенары дз5\Adventure1\obj\Debug\net7.0\Adventure1.genruntimeconfig.cache
+C:\Users\Adskiposral\Desktop\Курс\dz\Знакомство семенары дз5\Adventure1\obj\Debug\net7.0\ref\Adventure1.dll

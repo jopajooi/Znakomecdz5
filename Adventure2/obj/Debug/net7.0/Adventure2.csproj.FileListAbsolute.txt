@@ -1,0 +1,15 @@
+C:\Users\Adskiposral\Desktop\Курс\dz\Знакомство семенары дз5\Adventure2\bin\Debug\net7.0\Adventure2.exe
+C:\Users\Adskiposral\Desktop\Курс\dz\Знакомство семенары дз5\Adventure2\bin\Debug\net7.0\Adventure2.deps.json
+C:\Users\Adskiposral\Desktop\Курс\dz\Знакомство семенары дз5\Adventure2\bin\Debug\net7.0\Adventure2.runtimeconfig.json
+C:\Users\Adskiposral\Desktop\Курс\dz\Знакомство семенары дз5\Adventure2\bin\Debug\net7.0\Adventure2.dll
+C:\Users\Adskiposral\Desktop\Курс\dz\Знакомство семенары дз5\Adventure2\bin\Debug\net7.0\Adventure2.pdb
+C:\Users\Adskiposral\Desktop\Курс\dz\Знакомство семенары дз5\Adventure2\obj\Debug\net7.0\Adventure2.csproj.AssemblyReference.cache
+C:\Users\Adskiposral\Desktop\Курс\dz\Знакомство семенары дз5\Adventure2\obj\Debug\net7.0\Adventure2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adskiposral\Desktop\Курс\dz\Знакомство семенары дз5\Adventure2\obj\Debug\net7.0\Adventure2.AssemblyInfoInputs.cache
+C:\Users\Adskiposral\Desktop\Курс\dz\Знакомство семенары дз5\Adventure2\obj\Debug\net7.0\Adventure2.AssemblyInfo.cs
+C:\Users\Adskiposral\Desktop\Курс\dz\Знакомство семенары дз5\Adventure2\obj\Debug\net7.0\Adventure2.csproj.CoreCompileInputs.cache
+C:\Users\Adskiposral\Desktop\Курс\dz\Знакомство семенары дз5\Adventure2\obj\Debug\net7.0\Adventure2.dll
+C:\Users\Adskiposral\Desktop\Курс\dz\Знакомство семенары дз5\Adventure2\obj\Debug\net7.0\refint\Adventure2.dll
+C:\Users\Adskiposral\Desktop\Курс\dz\Знакомство семенары дз5\Adventure2\obj\Debug\net7.0\Adventure2.pdb
+C:\Users\Adskiposral\Desktop\Курс\dz\Знакомство семенары дз5\Adventure2\obj\Debug\net7.0\Adventure2.genruntimeconfig.cache
+C:\Users\Adskiposral\Desktop\Курс\dz\Знакомство семенары дз5\Adventure2\obj\Debug\net7.0\ref\Adventure2.dll
